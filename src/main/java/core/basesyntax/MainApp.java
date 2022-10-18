@@ -5,13 +5,10 @@ public class MainApp {
         @Override
         public void doWork() {
             System.out.println("Excavator is working");
-
         }
         @Override
         public void stopWork() {
             System.out.println("Excavator stopped working");
         }
     }
-
-
 }
